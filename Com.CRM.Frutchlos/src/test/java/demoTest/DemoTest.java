@@ -7,6 +7,7 @@ public class DemoTest {
 	@Test
 	public void demo()
 	{
+		System.out.println("Changes made in repository");
 		System.out.println("This is demo");
 	}
 }
