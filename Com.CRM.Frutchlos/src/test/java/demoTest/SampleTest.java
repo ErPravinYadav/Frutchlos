@@ -8,5 +8,6 @@ public class SampleTest {
 	public void sampleDemoTest()
 	{
 		System.out.println("This is Semple Demo");
+		System.out.println("Some modifications");
 	}
 }
