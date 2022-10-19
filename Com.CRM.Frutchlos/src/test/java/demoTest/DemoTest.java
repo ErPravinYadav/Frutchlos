@@ -9,5 +9,6 @@ public class DemoTest {
 	{
 		System.out.println("Changes made in repository");
 		System.out.println("This is demo");
+		System.out.println("Changes made in working directory");
 	}
 }
