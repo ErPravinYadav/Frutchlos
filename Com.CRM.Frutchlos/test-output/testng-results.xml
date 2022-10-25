@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-18T22:32:32 IST" name="Default suite" finished-at="2022-09-18T22:32:32 IST" duration-ms="87">
+  <suite started-at="2022-10-20T16:12:59 IST" name="Default suite" finished-at="2022-10-20T16:13:16 IST" duration-ms="17691">
     <groups>
     </groups>
-    <test started-at="2022-09-18T22:32:32 IST" name="Default test" finished-at="2022-09-18T22:32:32 IST" duration-ms="87">
-      <class name="demoTest.SampleTest">
-        <test-method signature="sampleDemoTest()[pri:0, instance:demoTest.SampleTest@3246fb96]" started-at="2022-09-18T22:32:32 IST" name="sampleDemoTest" finished-at="2022-09-18T22:32:32 IST" duration-ms="16" status="PASS">
+    <test started-at="2022-10-20T16:12:59 IST" name="Default test" finished-at="2022-10-20T16:13:16 IST" duration-ms="17691">
+      <class name="demoTest.DemoGitMurged">
+        <test-method signature="demogit()[pri:0, instance:demoTest.DemoGitMurged@3246fb96]" started-at="2022-10-20T16:12:59 IST" name="demogit" finished-at="2022-10-20T16:13:16 IST" duration-ms="17618" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleDemoTest -->
-      </class> <!-- demoTest.SampleTest -->
+        </test-method> <!-- demogit -->
+      </class> <!-- demoTest.DemoGitMurged -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
